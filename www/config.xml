@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.msutormin.demo-touch"
         version   = "0.0.1">
-    <name>The New Aveo</name>
+    <name>Demo</name>
 
     <description>
-        Demo Touch App.
+        A Touch App.
     </description>
 
     <author email="max.sutormin@gmail.com">
