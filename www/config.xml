@@ -20,6 +20,6 @@
     <preference name="target-device"    value="android" />
     <preference name="fullscreen"       value="true" />
 
-    <icon src="" />
-    <gap:splash src="" />
+    <icon src="icon.png" />
+    <gap:splash src="splash.png" />
 </widget>
